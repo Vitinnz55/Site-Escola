@@ -1,0 +1,15 @@
+.cabecario {
+    background-color: #6f90ce;
+    color: #000000;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecario-imagem{
+    width: 8%;
+}
+
+.cabecario-lista-item{
+    display: inline-block;
+    margin: 0 15px;
+}
